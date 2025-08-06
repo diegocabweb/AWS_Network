@@ -19,12 +19,12 @@ C. Edge Networking
 3. Global Accelerator: optimiza el tráfico de sus usuarios, desde el usuario hasta su aplicación.
 
 D. Application Networking
-1. App Mesh:
-2. API Gateway:
-3. Cloud Map:
+1. App Mesh: conecta contenedores y microservicios con redes a nivel de aplicación.
+2. API Gateway: crea, mantiene y protege API a cualquier escala.
+3. Cloud Map: descubre el acceso a los recursos y servicios más recientes.
 
 E. Networking Security
-1. Shield:
-2. WAF:
-3. Network Firewall:
-4. Firewall Manager:
+1. Shield: agrega una protección a sus aplicaciones contra ataques DDoS.
+2. WAF: protege su aplicación web de exploits web comunes.
+3. Network Firewall: protege su aplicación web de exploits web comunes.
+4. Firewall Manager: ayuda a configurar y administrar de forma centralizada las reglas de su firewall.
