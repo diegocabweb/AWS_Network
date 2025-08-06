@@ -3,9 +3,9 @@
 17 Services:
 
 A. Network Fundations
-1. VPC: Virtual Private Cloud
-2. Transit Gateway: 
-3. Private Link:
+1. VPC - Virtual Private Cloud: proporciona una ubicación privada para lanzar recursos de AWS en una red virtual aislada.
+2. Transit Gateway: es un servicio que administra y simplifica las conexiones y el peering de sus VPC de Amazon.
+3. Private Link: Ayuda a establecer una conectividad segura y privada entre las VPC de Amazon y los servicios de AWS dentro de tu Región o dentro de otro VPC de Amazon, y su red local.
 
 B. Hybrid connectivity
 1. Direct Connect:
