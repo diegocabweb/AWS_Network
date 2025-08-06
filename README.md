@@ -1,28 +1,30 @@
 # AWS_Network
 
+17 Services:
+
 A. Network Fundations
 1. VPC: Virtual Private Cloud
 2. Transit Gateway: 
 3. Private Link:
 
 B. Hybrid connectivity
-4. Direct Connect:
-5. Site to Site VPN:
-6. Client VPN:
-7. Cloud WAN:
+1. Direct Connect:
+2. Site to Site VPN:
+3. Client VPN:
+4. Cloud WAN:
 
 C. Edge Networking
-8. Cloud Front:
-9. Route 53:
-10. Global Accelerator:
+1. Cloud Front:
+2. Route 53:
+3. Global Accelerator:
 
 D. Application Networking
-11. App Mesh:
-12. API Gateway:
-13. Cloud Map:
+1. App Mesh:
+2. API Gateway:
+3. Cloud Map:
 
 E. Networking Security
-14. Shield:
-15. WAF:
-16. Network Firewall:
-17. Firewall Manager:
+1. Shield:
+2. WAF:
+3. Network Firewall:
+4. Firewall Manager:
