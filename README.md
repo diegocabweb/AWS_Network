@@ -28,3 +28,12 @@ E. Networking Security
 2. WAF: protege su aplicación web de exploits web comunes.
 3. Network Firewall: protege su aplicación web de exploits web comunes.
 4. Firewall Manager: ayuda a configurar y administrar de forma centralizada las reglas de su firewall.
+
+# VPC
+Recuerda:
+- Las VPC de Amazon viven completamente dentro de la nube de AWS.
+- Un VPC de Amazon vive en una región.
+- Una subred solo puede vivir en una zona de disponibilidad.
+- Algunos recursos de AWS deben iniciarse en una VPC de Amazon.
+- Las puertas de enlace de Internet permiten que sus recursos VPC lleguen a Internet.
+- Las tablas de rutas controlan el enrutamiento del tráfico que entra, sale y se mueve dentro de su Amazon VPC.
