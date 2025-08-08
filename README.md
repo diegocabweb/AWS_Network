@@ -37,3 +37,10 @@ Recuerda:
 - Algunos recursos de AWS deben iniciarse en una VPC de Amazon.
 - Las puertas de enlace de Internet permiten que sus recursos VPC lleguen a Internet.
 - Las tablas de rutas controlan el enrutamiento del tráfico que entra, sale y se mueve dentro de su Amazon VPC.
+
+Consideraciones adicionales sobre Amazon VPC
+- La única diferencia arquitectónica entre a público y privado subred es que una subred pública tiene una ruta a una puerta de enlace de Internet.
+- De forma predeterminada, el DNS lo gestiona Amazon VPC. Sin embargo, es posible utilizar Amazon Route 53 para crear su propio DNS dentro de un Amazon VPC con zonas alojadas privadas.
+- Todo el tráfico es unicast y las VPC de Amazon no requieren el Protocolo de resolución de direcciones (ARP).
+- De forma predeterminada, todas las subredes de una VPC de Amazon pueden acceder entre sí. Puede utilizar ACL de red para restringir el tráfico dentro y fuera de sus subredes.
+- Todo el tráfico entre dos puntos en el mismo Amazon VPC se reenvía directamente.
